@@ -1,0 +1,2 @@
+#!/bin/sh
+NODE_ENV=production /home/suissa/webapps/nomadevblob/bin/node /home/suissa/webapps/nomadevblob/ghost/node_modules/forever/bin/forever stop /home/suissa/webapps/nomadevblob/ghost/index.js
